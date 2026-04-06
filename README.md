@@ -70,6 +70,10 @@ deleteStorageValue(myId, "coins")
 
 # How To Install
 
+* Just Paste The  `ChestStorageSystem.world code.js` in the world code of your lobby, and you are all good to go
+Check Out  [my channel](https://www.youtube.com/@YTflameX) for more codes, etc.
+
+
 
 
 
