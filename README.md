@@ -1,4 +1,4 @@
-# ChestStorage System
+# ChestStorageSystem
 You can use this system to store and retrieve data using keys inside Moonstone Chest storage.
 This allows you to save player data, stats, settings, and more using simple key-value pairs.
 This system is designed to be simple and efficient, and works directly with the Bloxd.io game API.
